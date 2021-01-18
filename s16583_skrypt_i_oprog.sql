@@ -533,12 +533,12 @@ GO
 
 INSERT INTO player (id_title, id_nationality, nick_name, first_name, last_name, gender, register_date)
 VALUES
-	(7, 27, 'WuT', 'Damian', 'Rutkowski', 'M', '2010-01-01'),
-	(6, 27, 'BloOdje', '£ukasz', 'Rusielewicz', 'M', '2010-01-01'),
-	(6, 27, 'dialer', 'Patryk', 'Karolewski', 'M', '2010-01-01'),
-	(6, 27, 'wiaderko', 'Micha³', 'Waszak', 'M', '2010-01-01'),
-	(6, 27, 'h2o', 'Micha³', 'Babiñski', 'M', '2010-01-01'),
-	(6, 27, 'Abj', 'Piotr', 'Krupa', 'M', '2010-01-01'),
+	(7, 27, 'WuT', NULL, NULL, 'M', '2010-01-01'),
+	(6, 27, 'BloOdje', NULL, NULL, 'M', '2010-01-01'),
+	(6, 27, 'dialer', NULL, NULL, 'M', '2010-01-01'),
+	(6, 27, 'wiaderko', NULL, NULL, 'M', '2010-01-01'),
+	(6, 27, 'h2o', NULL, NULL, 'M', '2010-01-01'),
+	(6, 27, 'Abj', NULL, NULL, 'M', '2010-01-01'),
 	(6, 16, 'w1Za', NULL, NULL, 'M', '2010-01-01'),
 	(6, 16, 'psiquh', NULL, NULL, 'M', '2010-01-01'),
 	(6, 16, 'ScaTmaN_', NULL, NULL, 'M', '2010-01-01'),
